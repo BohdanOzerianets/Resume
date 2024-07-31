@@ -86,51 +86,6 @@ body {
     color: #005FFF;
 }
 
-/* Work Expirience */
-.work-expirience-container{
-    margin-bottom: 44px;
-}
-.work-expirience-position{
-    font-style: normal;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 20px;
-    color: #000000;
-    margin: 0;
-}
-.work-expirience-position{
-    margin-bottom: 16px;
-}
-.work-expirience-company{
-    color: #6D9BF5;
-}
-.work-period{
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    color: #A8A8A8;
-    margin: 12px 0 8px 0;}
-.work-item{
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
-    color: #000000;
-}
-.work-duties{
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 24px;
-color: #595959;
-}
-.work-duties-list{
-    margin: 0;
-    padding: 0 0 0 16px;
-}
-.work-expirience-place{
-    margin-top: 16px;}
     
 /* Education */
 .education-container{
